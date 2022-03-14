@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+}
+
+.list-container {
+  list-style-type: none;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+.arrow-img {
+  width: 25px;
+  height: 25px;
+  margin: 12px;
+  cursor: pointer;
+}
